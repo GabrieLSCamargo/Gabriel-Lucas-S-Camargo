@@ -15,7 +15,7 @@ typedef struct
   float y;
 } ponto;
 
-//struct que gaurda dois pontos de um quadrado ou retângulo
+//struct que guarda dois pontos de um quadrado ou retângulo
 typedef struct
 {
   ponto cse; // canto superior esquerdo 
